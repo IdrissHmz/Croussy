@@ -1,0 +1,22 @@
+conda create --name email_env python=3.10
+conda activate email_env
+pip install -r requirements.txt 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+my personal token = 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
