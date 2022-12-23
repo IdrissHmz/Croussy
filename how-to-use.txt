@@ -1,5 +1,5 @@
-conda create --name email_env python=3.10
-conda activate email_env
+conda create --name croussy python=3.10
+conda activate croussy
 pip install -r requirements.txt 
 
 
